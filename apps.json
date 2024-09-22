@@ -1,0 +1,158 @@
+[
+    {
+      "name": "VLC Media Player",
+      "description": "A free and open-source cross-platform multimedia player.",
+      "url": "https://get.videolan.org/vlc/last/win64/vlc-3.0.18-win64.exe"
+    },
+    {
+      "name": "Google Chrome",
+      "description": "A fast, easy-to-use, and secure web browser.",
+      "url": "https://dl.google.com/chrome/install/latest/chrome_installer.exe"
+    },
+    {
+      "name": "Spotify",
+      "description": "Listen to music, podcasts, and more.",
+      "url": "https://download.scdn.co/SpotifySetup.exe"
+    },
+    {
+      "name": "Discord",
+      "description": "All-in-one voice and text chat for gamers.",
+      "url": "https://discord.com/api/download?platform=win"
+    },
+    {
+      "name": "Slack",
+      "description": "Collaborate with your team from anywhere.",
+      "url": "https://slack.com/downloads/windows"
+    },
+    {
+      "name": "Visual Studio Code",
+      "description": "Free source-code editor made by Microsoft.",
+      "url": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user"
+    },
+    {
+      "name": "7-Zip",
+      "description": "A file archiver with a high compression ratio.",
+      "url": "https://www.7-zip.org/a/7z2201-x64.exe"
+    },
+    {
+      "name": "GIMP",
+      "description": "Free and open-source image editor.",
+      "url": "https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.28-setup.exe"
+    },
+    {
+      "name": "Mozilla Firefox",
+      "description": "Free and open-source web browser developed by Mozilla.",
+      "url": "https://download.mozilla.org/?product=firefox-latest-ssl&os=win&lang=en-US"
+    },
+    {
+      "name": "LibreOffice",
+      "description": "Free and powerful office suite.",
+      "url": "https://download.documentfoundation.org/libreoffice/stable/7.6.0/win/x86_64/LibreOffice_7.6.0_Win_x64.msi"
+    },
+    {
+      "name": "Audacity",
+      "description": "Free, open source, cross-platform audio software.",
+      "url": "https://www.audacityteam.org/download/windows/"
+    },
+    {
+      "name": "Notepad++",
+      "description": "Free source code editor and Notepad replacement.",
+      "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest/download/npp.8.5.1.Installer.exe"
+    },
+    {
+      "name": "Git",
+      "description": "Version control system for tracking changes in source code.",
+      "url": "https://github.com/git-for-windows/git/releases/latest/download/Git-x86_64-v2.42.0.exe"
+    },
+    {
+      "name": "OBS Studio",
+      "description": "Free and open-source software for video recording and live streaming.",
+      "url": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-29.0.2-Full-Installer-x64.exe"
+    },
+    {
+      "name": "WinRAR",
+      "description": "Powerful archiver and archive manager.",
+      "url": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-611.exe"
+    },
+    {
+      "name": "Blender",
+      "description": "Free and open-source 3D creation suite.",
+      "url": "https://download.blender.org/release/Blender3.6/blender-3.6.4-windows-x64.msi"
+    },
+    {
+      "name": "Python",
+      "description": "Programming language that lets you work quickly and integrate systems.",
+      "url": "https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe"
+    },
+    {
+      "name": "FileZilla",
+      "description": "Free FTP solution for both client and server.",
+      "url": "https://download.filezilla-project.org/client/FileZilla_3.66.1_win64-setup.exe"
+    },
+    {
+      "name": "TeamViewer",
+      "description": "Remote access and support software.",
+      "url": "https://download.teamviewer.com/download/TeamViewer_Setup.exe"
+    },
+    {
+      "name": "Postman",
+      "description": "API platform for building and using APIs.",
+      "url": "https://www.postman.com/downloads/"
+    },
+    {
+      "name": "Figma",
+      "description": "Design tool for collaborative interface design.",
+      "url": "https://www.figma.com/downloads/"
+    },
+    {
+      "name": "Notion",
+      "description": "All-in-one workspace for notes, tasks, and projects.",
+      "url": "https://www.notion.so/desktop"
+    },
+    {
+      "name": "AnyDesk",
+      "description": "Remote desktop software for remote access.",
+      "url": "https://download.anydesk.com/AnyDesk.exe"
+    },
+    {
+      "name": "Keepass",
+      "description": "Password manager for securely storing passwords.",
+      "url": "https://sourceforge.net/projects/keepass/files/Keepass/2.53.1/KeePass-2.53.1-Setup.exe/download"
+    },
+    {
+      "name": "Zoom",
+      "description": "Cloud meetings and video conferencing software.",
+      "url": "https://zoom.us/client/latest/ZoomInstaller.exe"
+    },
+    {
+      "name": "Camtasia",
+      "description": "Powerful video editing and screen recording software.",
+      "url": "https://www.techsmith.com/download/camtasia/"
+    },
+    {
+      "name": "VirtualBox",
+      "description": "Free and open-source virtualization software.",
+      "url": "https://download.virtualbox.org/virtualbox/7.0.6/VirtualBox-7.0.6-Win.exe"
+    },
+    {
+      "name": "Microsoft Office",
+      "description": "Productivity software suite.",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/try"
+    },
+    {
+      "name": "CyberLink PowerDirector",
+      "description": "Video editing software for creating movies.",
+      "url": "https://www.cyberlink.com/downloads/trial/powerdirector-video-editing-software/download_en_US.html"
+    },
+    {
+      "name": "Inkscape",
+      "description": "Free and open-source vector graphics editor.",
+      "url": "https://media.inkscape.org/dl/resources/file/inkscape-1.2.2-x64.exe"
+    },
+    {
+      "name": "Sublime Text",
+      "description": "A sophisticated text editor for code, markup, and prose.",
+      "url": "https://download.sublimetext.com/Sublime%20Text%20Build%203215%20x64%20Setup.exe"
+    }
+  ]
+  
