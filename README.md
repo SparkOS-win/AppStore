@@ -1,2 +1,1 @@
-# AppStore
-Source code of the App Store included in SparkOS.
+win 8 lover fuck off
